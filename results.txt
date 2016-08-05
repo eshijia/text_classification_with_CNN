@@ -1,0 +1,8 @@
+mr_embedding.py:
+    Train 200 epoch, best_val_acc: 0.82
+
+mr_single_cnn_eval.py:
+    Train 5 epoch, best_val_acc: 0.7889
+
+mr_multiple_cnn_eval.py:
+    Train 5 epoch, best_val_acc:
